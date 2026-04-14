@@ -6,4 +6,4 @@ aprendendo o git!
 
 Fiz novas alterações aqui!!!!!!
 
-Apaguei aqui
+A0paguei aqui!!!!
