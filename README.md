@@ -5,4 +5,5 @@ testando git!
 aprendendo o git!
 
 Fiz novas alterações aqui!!!!!!
-Novo teste
+
+Apaguei aqui
